@@ -1,9 +1,9 @@
-package com.telusko.question_service.service;
+package com.sumanth.question_service.service;
 
-import com.telusko.question_service.dao.QuestionDao;
-import com.telusko.question_service.model.Question;
-import com.telusko.question_service.model.QuestionWrapper;
-import com.telusko.question_service.model.Response;
+import com.sumanth.question_service.dao.QuestionDao;
+import com.sumanth.question_service.model.Question;
+import com.sumanth.question_service.model.QuestionWrapper;
+import com.sumanth.question_service.model.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
