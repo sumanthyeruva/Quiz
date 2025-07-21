@@ -1,7 +1,7 @@
-package com.telusko.quiz_service.feign;
+package com.sumanth.quiz_service.feign;
 
-import com.telusko.quiz_service.model.QuestionWrapper;
-import com.telusko.quiz_service.model.Response;
+import com.sumanth.quiz_service.model.QuestionWrapper;
+import com.sumanth.quiz_service.model.Response;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

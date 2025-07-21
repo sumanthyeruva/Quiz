@@ -1,10 +1,10 @@
-package com.telusko.quiz_service.service;
+package com.sumanth.quiz_service.service;
 
-import com.telusko.quiz_service.dao.QuizDao;
-import com.telusko.quiz_service.feign.QuizInterface;
-import com.telusko.quiz_service.model.QuestionWrapper;
-import com.telusko.quiz_service.model.Quiz;
-import com.telusko.quiz_service.model.Response;
+import com.sumanth.quiz_service.dao.QuizDao;
+import com.sumanth.quiz_service.feign.QuizInterface;
+import com.sumanth.quiz_service.model.QuestionWrapper;
+import com.sumanth.quiz_service.model.Quiz;
+import com.sumanth.quiz_service.model.Response;
 import org.aspectj.weaver.patterns.TypePatternQuestions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

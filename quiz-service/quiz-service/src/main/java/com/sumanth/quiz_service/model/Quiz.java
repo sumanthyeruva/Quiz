@@ -1,4 +1,4 @@
-package com.telusko.quiz_service.model;
+package com.sumanth.quiz_service.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
